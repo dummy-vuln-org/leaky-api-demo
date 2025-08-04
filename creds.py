@@ -1,0 +1,3 @@
+API_KEY = "AKIAIOSFAKEKEYEXAMPLE1234"
+DB_PASSWORD = "supersecurepass123!"
+JWT_SECRET = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.fake.payload"
